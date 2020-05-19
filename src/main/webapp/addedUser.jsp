@@ -14,6 +14,14 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-<title>User added</title>
-
+<!doctype html>
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <title>User added</title>
+</head>
+<body>
 <h3>User added successfully</h3>
+</body>
+</html>
